@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D678-FF86
+
+ Directory of C:\Users\admin\Desktop\MyProject
+
+29-Dec-20  06:11 PM    <DIR>          .
+29-Dec-20  06:11 PM    <DIR>          ..
+29-Dec-20  06:11 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,883,447,808 bytes free
